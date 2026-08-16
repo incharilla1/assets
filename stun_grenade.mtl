@@ -1,0 +1,45 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl M84_Stun_Grenade_1_Material_1
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.98945579909142
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.0471551 0.0471551 0.0471551
+Ke 0 0 0
+
+newmtl M84_Stun_Grenade_1_Material_2
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.9599770501207813
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.0574363 0.202358 0.305411
+Ke 0 0 0
+
+newmtl M84_Stun_Grenade_1_Material_3
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.9456590894182637
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.33505 0.232789 0.0733742
+Ke 0 0 0
+
+newmtl M84_Stun_Grenade_1_Material_4
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.9559762936589842
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.19688 0.19688 0.19688
+Ke 0 0 0
