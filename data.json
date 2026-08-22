@@ -1,7 +1,6 @@
 {
   "menu-version": "1.0.4",
-  "min-version": "1.0.3",
-  "motd": "",
+  "min-version": "1.0.0",
   "discord-invite": "https://discord.gg/XRmtJu8aUj",
   "admins": [
     {
