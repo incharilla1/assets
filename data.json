@@ -1,9 +1,13 @@
 {
   "discord-invite": "https://discord.gg/XRmtJu8aUj",
+  "motd": "Welcome to ShibaGT Genesis Reborn!",
+  "lockdown": false,
+  "lockdown-reason": "Menu is temporarily closed for updates.",
   "admins": [
     {
-      "incharilla": "C7887DEBBCC18F92",
+      "incharilla": "C7887DEBBCC18F92"
     }
   ],
-  "blacklisted-ids": []
+  "blacklisted-ids": [],
+  "disabled-mods": []
 }
