@@ -1,13 +1,9 @@
 {
-  "menu-version": "1.0.4",
-  "min-version": "1.0.0",
   "discord-invite": "https://discord.gg/XRmtJu8aUj",
   "admins": [
     {
-      "name": "incharilla",
-      "user-id": "C7887DEBBCC18F92"
+      "incharilla": "C7887DEBBCC18F92",
     }
   ],
-  "modSpecificAdmins": [],
   "blacklisted-ids": []
 }
